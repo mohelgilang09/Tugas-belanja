@@ -1,0 +1,15 @@
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\bin\Debug\net10.0\tugas belanja.exe
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\bin\Debug\net10.0\tugas belanja.deps.json
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\bin\Debug\net10.0\tugas belanja.runtimeconfig.json
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\bin\Debug\net10.0\tugas belanja.dll
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\bin\Debug\net10.0\tugas belanja.pdb
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.AssemblyInfoInputs.cache
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.AssemblyInfo.cs
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.csproj.CoreCompileInputs.cache
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.dll
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\refint\tugas belanja.dll
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.pdb
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas belanja.genruntimeconfig.cache
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\ref\tugas belanja.dll
+C:\Users\someo\Documents\kelas 10\tugas\tugas belanja\tugas belanja\obj\Debug\net10.0\tugas be.D978BB2B.Up2Date
